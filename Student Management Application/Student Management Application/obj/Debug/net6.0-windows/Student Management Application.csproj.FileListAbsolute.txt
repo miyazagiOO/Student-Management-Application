@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\bin\Debug\net6.0-windows\Student Management Application.exe
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\bin\Debug\net6.0-windows\Student Management Application.deps.json
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\bin\Debug\net6.0-windows\Student Management Application.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\bin\Debug\net6.0-windows\Student Management Application.dll
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\bin\Debug\net6.0-windows\ref\Student Management Application.dll
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\bin\Debug\net6.0-windows\Student Management Application.pdb
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\obj\Debug\net6.0-windows\Student Management Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\obj\Debug\net6.0-windows\Student_Management_Application.Form1.resources
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\obj\Debug\net6.0-windows\Student Management Application.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\obj\Debug\net6.0-windows\Student Management Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\obj\Debug\net6.0-windows\Student Management Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\obj\Debug\net6.0-windows\Student Management Application.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\obj\Debug\net6.0-windows\Student Management Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\obj\Debug\net6.0-windows\Student Management Application.dll
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\obj\Debug\net6.0-windows\ref\Student Management Application.dll
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\obj\Debug\net6.0-windows\Student Management Application.pdb
+C:\Users\Lenovo\Documents\GitHub\New folder\Student Management Application\Student Management Application\obj\Debug\net6.0-windows\Student Management Application.genruntimeconfig.cache

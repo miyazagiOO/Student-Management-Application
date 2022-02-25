@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5afb1e03-1d0a-48fe-b896-fff80eeb70e2": {
+      "ProjectGuid": "5afb1e03-1d0a-48fe-b896-fff80eeb70e2",
+      "DisplayName": "Student Management Application",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
